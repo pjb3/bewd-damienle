@@ -10,7 +10,7 @@ To do this, you will need to make 3 classes.
 
     The product class will also need to be capable of storing an Array of products. When you call the add class method on Product, it should instantiate a new Product and save it in an Array that is an instance variable on the class. To do this, you should assign an empty Array to an instance variable if it has not been assigned a value yet. If you are not sure how to do this, review [the slide on State](http://pjb3.github.io/back-end-web-development/01_command_line_git_ruby/object_oriented_programming_with_ruby#8), but remember, in this case you are creating an instance variable on the class, not on an instance, so this needs to happen in a class method.
 
-    Finally you will need a class method on Product to find the a product instance that was previously added to the Array that has the same name as the name passed as an argument to the to the method. If you aren't sure how to do this, refer to [this slide](http://pjb3.github.io/back-end-web-development/01_command_line_git_ruby/functional_programming_with_ruby#15).
+    Finally you will need a class method on Product to find the product instance that was previously added to the Array that has the same name as the name passed as an argument to the method. If you aren't sure how to do this, refer to [this slide](http://pjb3.github.io/back-end-web-development/01_command_line_git_ruby/functional_programming_with_ruby#15).
 
 2. Line Item
 
