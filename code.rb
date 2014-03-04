@@ -22,4 +22,4 @@ end
 end
 
 puts calculate_total [{:quantity=>2 , :price=>2 }, {:quantity => 3,:price => 0.89}]
-
+# puts calculate_total
